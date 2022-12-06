@@ -1,11 +1,24 @@
 
 
-# Vini Mini ChatBot🥜
+# Vini Mini ChatBox🥜
 
-<img width="400" alt="Screenshot 2022-10-31 at 05 05 23" src="https://user-images.githubusercontent.com/112861555/198929492-3e33c660-ba59-465a-968d-5cd97277f69a.png">
+<img width="432" alt="Screenshot 2022-12-06 at 11 15 18" src="https://user-images.githubusercontent.com/112861555/205893518-0af6f1b1-95e8-4092-9830-bfced0dcb394.png">
 
-Doel opdracht: chatbot maken. Zodat ouders hun algemene vragen kunnen stellen aan Vini Mini.
-Link naar het chatbot:
+Doel opdracht: Userstory (chatbox) maken en testen als het toegankelijk is voor iedereen!
+
+Doel van Chatbox: Zodat ouders hun algemene vragen kunnen stellen aan Vini Mini.
+Link naar het chatbot: http://127.0.0.1:5500/
+
+## Accessible ♿:
+
+Doel opdracht: Doel van deze sprint is een bestaande website (chatbox), toegankelijk te maken.
+
+In [Ontwerpen](https://github.com/Marwaxhello/all-human-accessible-website/wiki/Ontwerpen%E2%9C%8F%EF%B8%8F): Kan je lezen wat ik precies heb geïmplementeerd betreft toegankelijkheid.
+
+### Vini Mini 🥜:
+
+Vini Mini is een start up (bedrijf) en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen.  Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa. Om dit allemaal te kunnen behalen, moet er fijne gebruiksvriendelijke componenten (website) gebouwd worden.
+
 
 ## Inhoudsopgave
 
