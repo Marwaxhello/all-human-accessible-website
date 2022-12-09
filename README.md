@@ -1,6 +1,6 @@
 
 
-# Vini Mini ChatBox🥜
+# Vini Mini ChatBox 🥜 All human accessible 🦾
 
 <img width="432" alt="Screenshot 2022-12-06 at 11 15 18" src="https://user-images.githubusercontent.com/112861555/205893518-0af6f1b1-95e8-4092-9830-bfced0dcb394.png">
 
